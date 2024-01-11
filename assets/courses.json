@@ -1,0 +1,35 @@
+ {
+  "courses": [
+    {
+      "course_name": "Calculus ||",
+      "course_code": "MTH 113",
+      "instructor": "Dr. Firuz",
+      "location": "Hub-111",
+      "time": "03:30PM - 05:59PM",
+      "days": [
+        "Monday"
+      ]
+    },
+    {
+      "course_name": "Introduction To Computing Science |",
+      "course_code": "BCS 102",
+      "instructor": "Dr. Tamer",
+      "location": "Hub-112",
+      "time": "03:00PM - 04:59PM",
+      "days": [
+        "Tuesday"
+      ]
+    },
+    {
+      "course_name": "English || for Engineering & Computing",
+      "course_code": "LNG 182",
+      "instructor": "Dr. Leila",
+      "location": "MGT-210",
+      "time": "01:30PM - 02:59PM",
+      "days": [
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  ]
+}

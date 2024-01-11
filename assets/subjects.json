@@ -1,0 +1,20 @@
+{
+  "subjects": [
+    {
+      "course_code": "CS101",
+      "course_name": "Introduction to Computer Science",
+      "instructor_name": "Dr. John Smith",
+      "room_number": "Room 101",
+      "time": "9:00 am - 10:00 am",
+      "days": ["M", "W", "F"]
+    },
+    {
+      "course_code": "MATH201",
+      "course_name": "Calculus I",
+      "instructor_name": "Dr. Jane Doe",
+      "room_number": "Room 202",
+      "time": "11:00 am - 12:30 pm",
+      "days": ["T", "Th"]
+    }
+  ]
+}
