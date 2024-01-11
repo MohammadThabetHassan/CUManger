@@ -22,6 +22,7 @@ git clone https://github.com/your-username/CU-Manger.git
 cd CU-Manger
 flutter pub get
 flutter run
+```
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please follow these steps:
