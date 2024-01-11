@@ -2,6 +2,8 @@
 
 CU-Manger is a Flutter mobile application for managing your course timetable. It allows you to view and organize your courses, set notifications for upcoming classes, and keep notes for each course.
 
+![CU-Manger](https://github.com/MohammadThabetHassan/CUManger/assets/141744086/4221b0cb-2126-43e7-b0fa-545b26c677dc)
+
 ## Features
 
 - **Timetable Display:** View your course schedule organized by day and time.
