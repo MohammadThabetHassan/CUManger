@@ -34,4 +34,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 2. **Create a Pull Request:** If you'd like to contribute directly, fork the repository, create a new branch, make your changes, and [create a pull request](https://github.com/MohammadThabetHassan/CUManger/pulls) with a detailed description of your changes.
 
 We appreciate your feedback and contributions!
+## Authors
+- Mohammad Thabet Hassan
+- Tareq Skaf
+- Fahad Sadik
 
