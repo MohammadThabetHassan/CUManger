@@ -27,9 +27,9 @@ flutter run
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please follow these steps:
 
-1. **Open an Issue:** If you encounter any problems or have ideas for enhancements, please [open an issue](https://github.com/your-username/CU-Manger/issues) to discuss it.
+1. **Open an Issue:** If you encounter any problems or have ideas for enhancements, please [open an issue](https://github.com/MohammadThabetHassane/CU-Manger/issues) to discuss it.
 
-2. **Create a Pull Request:** If you'd like to contribute directly, fork the repository, create a new branch, make your changes, and [create a pull request](https://github.com/your-username/CU-Manger/pulls) with a detailed description of your changes.
+2. **Create a Pull Request:** If you'd like to contribute directly, fork the repository, create a new branch, make your changes, and [create a pull request](https://github.com/MohammadThabetHassan/CU-Manger/pulls) with a detailed description of your changes.
 
 We appreciate your feedback and contributions!
 
